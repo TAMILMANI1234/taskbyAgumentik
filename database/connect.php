@@ -2,7 +2,8 @@
            
        session_start();
        define("URL",'http://localhost/task/');
-        
+        /*username:tamilmani
+          password:tamilmani*/
         define('LOCALHOST','localhost');
         define('DB_USERNAME','root');
         define('DB_PASS','');
